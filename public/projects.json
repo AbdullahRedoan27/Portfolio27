@@ -1,0 +1,57 @@
+[
+    {
+        "id":"01",
+        "name": "Wheelanes",
+        "authorName": "Abdullah Redoan",
+        "type":"This is an used car selling website.",
+        "description":["At first, after clilcking the site URL, you will see the Home route. In the Home page, there is 4 cards where the categories are shown. Below the category section, there is some advertised products. After this section, there is a section which portrays the statistics of progress of this company. And at last there is a footer.", "After clicking the 'see' button on the category card, you will be redirected to the respective route. For example, if you click on the 'Sedan' card's 'See' button, the products of 'Sedan' Category will be shown.", "On the Navbar, you will find 'Products' option. After clicking that, you will see all the category cards. And also there is a button called 'See all cars'. This button will redirect you to that route where you will see all the cars that is listed for sale in this website.", "After logging in, you will see an option called 'Dashboard'. If you login as a buyer, you will see 'My orders'. And if you login as a 'seller', you will see 'Sell a car', 'My buyers' and 'My products' options.", "In the blog page, you will find answers of some questions."],
+        "img":"https://i.ibb.co/W2b1Zys/wheelanes.png",
+        "liveSite":"https://wheelanes27.web.app/",
+        "clientGithub":"https://github.com/AbdullahRedoan27/wheelanes-client",
+        "serverGithub":"https://github.com/AbdullahRedoan27/wheelanes-server"
+    },
+    {
+        "id":"02",
+        "name": "PiJournal",
+        "authorName": "Abdullah Redoan",
+        "type":"This is a journal service provider's website.",
+        "description":["Signle Page Application", "Easy Register and Login Process", "6 Different and Unique Services", "There is a review section in every services details page. There will appear all the reviews that users have submitted.", "User can get all the reviews he/she has submitted in the My Reviews page.", "User can edit and delete his/her review from My Reviews page.", "User can easily log out whenever he/she wants."],
+        "img": "https://i.ibb.co/0Md9RBJ/pijournal.png",
+        "liveSite":"https://pijournal-27.web.app/",
+        "clientGithub":"https://github.com/AbdullahRedoan27/PiJournal",
+        "serverGithub":"https://github.com/AbdullahRedoan27/PiJournal-server"
+    },
+    {
+        "id":"03",
+        "name": "Skill Hunter",
+        "authorName": "Abdullah Redoan",
+        "type":"This is a skill sharing website, where people can learn and teach through courses.",
+        "description":["Single Page Application", "Authenticated by firebase", "In Courses route, there is 6 courses. Each course is dynamic", "One can easily download the pdf file of a course", "There is a blog section where you will find 4 answers of questions.", "Another route is FAQ. There is the answers of freequently asked questions."],
+        "img": "https://i.ibb.co/6Fcx1tR/skill-Hunter.png",
+        "liveSite":"https://skill-hunter-adbb0.web.app/",
+        "clientGithub":"https://github.com/AbdullahRedoan27/Skill-Hunter",
+        "serverGithub":"https://github.com/AbdullahRedoan27/Skill-Hunter-Server"
+    },
+    {
+        "id":"04",
+        "name": "Book Verse",
+        "type":"This website keeps track of users reading list and reading time. It helps the user to be focused.",
+        "authorName": "Abdullah Redoan",
+        "description":["Single Page Application", "Prereserverd book and can be added in reading list", "Autometic calculation of the time that need to complete the books added in the reading list.", "Rest facility that keep track of the resting time while reading", "Some blog paragraphs are there."],
+        "img": "https://i.ibb.co/Jtb0f5y/bookverse.png",
+        "liveSite":"https://bookverse27.netlify.app/",
+        "clientGithub":"https://github.com/AbdullahRedoan27/bookverse",
+        "serverGithub":""
+    },
+    {
+        "id":"05",
+        "name": "Quiz Mania",
+        "authorName": "Abdullah Redoan",
+        "type":"In this website people can take a quick test on a certain topic.",
+        "description":["There are four different topics", "Every topic has some MCQ questions", "User can easily take a quick test of his/her knowledge on a specific topic", "After selecting an option as an answer of a question, if the answer is right, a notification will appear and congratulate. And if it is wrong, a notification will appear with the right answer."],
+        "img": "https://i.ibb.co/82ngQr2/quiz-Mania.png",
+        "liveSite":"https://quizmania27.netlify.app/",
+        "clientGithub":"https://github.com/AbdullahRedoan27/quizMania27",
+        "serverGithub":""
+    }
+]

@@ -1,0 +1,38 @@
+[
+ {
+    "name": "HTML5",
+    "image": "https://i.ibb.co/gPWrBMW/HTML5-logo-and-wordmark-svg.png"
+ },   
+ {
+    "name": "CSS3",
+    "image": "https://i.ibb.co/GMPNzdC/CSS3-logo-and-wordmark-svg.png"
+ },   
+ {
+    "name": "JavaScript",
+    "image": "https://i.ibb.co/BcmrvsZ/Unofficial-Java-Script-logo-2-svg.png"
+ },   
+ {
+    "name": "ReactJs",
+    "image": "https://i.ibb.co/nLFJ4F5/React-icon-svg.png"
+ },
+ {
+    "name": "NodeJs",
+    "image": "https://i.ibb.co/tB72C2R/590px-Node-js-logo-svg.png"
+ },
+ {
+    "name": "ExpressJs",
+    "image": "https://i.ibb.co/PjFvGTv/Expressjs-Small.png"
+ },
+ {
+    "name": "MongoDb",
+    "image": "https://i.ibb.co/d4PJ9Mb/Mongo-DB-Logo-svg.png"
+ },
+ {
+    "name": "Tailwind CSS",
+    "image": "https://i.ibb.co/XkJfSGG/Tailwind-CSS-Logo-svg.png"
+ },
+ {
+    "name": "Bootstrap",
+    "image": "https://i.ibb.co/fpTQ4SS/Bootstrap-logo-svg.png"
+ }
+]
